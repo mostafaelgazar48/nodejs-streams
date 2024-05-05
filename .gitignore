@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React
+build/
+dist/
+
+# IDE/Editor specific
+.vscode/
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
